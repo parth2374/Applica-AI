@@ -1,0 +1,7 @@
+streamlit
+crewai
+crewai-tools
+requests
+os
+dotenv
+langchain_google_genai
