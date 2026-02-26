@@ -1,0 +1,15 @@
+Job: ENGINEERING
+
+Subject: Application for [Job Title] - [Your Name]
+
+Dear [Recruiter Name, if known, otherwise use "Hiring Team"],
+
+I'm writing to follow up on my application for the [Job Title] position at [Company Name]. With two years of experience as a Python Developer, I've developed a strong foundation in problem-solving, data analysis, and automation, utilizing tools like Python and Git.
+
+I'm very enthusiastic about this opportunity and confident my skills can benefit your team. I'd welcome a brief chat to discuss my qualifications further.
+
+Thank you for your consideration.
+
+Sincerely,
+[Your Name]
+[Your LinkedIn Profile URL (Optional)]

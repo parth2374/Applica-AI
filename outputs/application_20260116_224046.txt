@@ -1,0 +1,173 @@
+=== JOB ANALYSIS ===
+I will first identify and list all explicitly stated required skills, tools, and experience levels from the job description.
+Then, I will analyze the "KNOWLEDGE, SKILLS AND ABILITIES (KSAs)" section to extract additional required skills.
+I will also look for any implied skills or tools based on the nature of the role and the required qualifications.
+Finally, I will compile all extracted information into a structured list format as requested.
+
+**Required Skills:**
+
+*   Teaching at a college or university in Marine or Mechanical Engineering or a related field (minimum 1 academic year for Assistant Professor, 5 years for Associate Professor)
+*   Sea service as a licensed engineer officer
+*   Shipyard planning, production, scheduling, or business operation experience ashore
+*   Power-plant operator related experience
+*   Accountability (holding self and others accountable for measurable high-quality, timely, and cost-effective results, determining objectives, setting priorities, delegating work, accepting responsibility for mistakes, complying with established control systems and rules)
+*   Computer Skills (using computers, software applications, databases, and automated systems to accomplish work)
+*   Customer Service (working with clients/customers to assess needs, provide information/assistance, resolve problems, satisfy expectations, knowing about available products/services, commitment to quality)
+*   Developing Others (developing the ability of others to perform and contribute through ongoing feedback and opportunities for learning)
+*   Education and Training (knowledge of teaching, training, research, making presentations, lecturing, testing, and other instructional methods)
+*   Naval architecture
+*   Ocean engineering
+*   Electrical engineering
+*   Nuclear engineering
+*   Professional Engineer’s license in Marine or Mechanical Engineering or a related discipline (can substitute for license)
+*   Experience as a shipyard superintendent or project manager (can substitute for license)
+*   Shipping company (including US Navy) Port Engineer experience (can substitute for license)
+*   Service in the U.S. Navy as an Engineering Duty officer (designator 144X) (may be considered equivalent)
+*   Qualified as a U.S. Coast Guard Naval Engineer or Marine Inspector (may be considered equivalent)
+
+**Tools:**
+
+*   Computers
+*   Software applications
+*   Databases
+*   Automated systems
+
+**Experience Level:**
+
+*   **Assistant Professor:**
+    *   At least 1 academic year (5 years equivalent) full-time or equivalent experience teaching at a college or university in Marine or Mechanical Engineering or a related field.
+    *   OR equivalent experience in sea service, shipyard operations, or power-plant operations.
+    *   Bachelor's degree from an accredited college or university in Marine or Mechanical Engineering or a related field.
+*   **Associate Professor:**
+    *   At least 5 academic years full-time or equivalent experience teaching at a college or university in Marine or Mechanical Engineering or a related field.
+    *   OR equivalent experience in sea service, shipyard operations, or power-plant operations.
+    *   Master's degree from an accredited college or university in Marine or Mechanical Engineering or a related field.
+*   **Licensure/Credential Requirement:**
+    *   Current (not expired) U.S. Coast Guard License (or equivalent credential) valid for service on United States Flag Commercial Ships as a 2nd Assistant Engineer, Unlimited Horsepower.
+    *   A valid Certificate under the provisions of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as currently amended, is preferred.
+*   **License Substitution:**
+    *   Possession of a valid Professional Engineer’s license in Marine or Mechanical Engineering or a related discipline.
+    *   Experience as a shipyard superintendent or project manager.
+    *   Shipping company (including US Navy) Port Engineer experience.
+    *   Service in the U.S. Navy as an Engineering Duty officer (designator 144X).
+    *   Qualified as a U.S. Coast Guard Naval Engineer or Marine Inspector.
+    *   Possession of a Master’s Degree (for Assistant Professor) in Marine or Mechanical Engineering or a related field.
+
+=== ATS OPTIMIZED RESUME ===
+The provided candidate profile describes a "Python developer with 10 years experience." However, the job description details are for a university-level teaching position in Marine or Mechanical Engineering, requiring specific academic credentials, sea service, shipyard experience, and engineering licenses.
+
+There is a fundamental mismatch between the candidate's profile and the job requirements. A Python Developer's skills and experience are not directly transferable or relevant to the core qualifications needed for a Marine/Mechanical Engineering Professor role (e.g., teaching engineering, sea service, professional engineering licenses).
+
+Therefore, it is not possible to create an ATS-optimized resume *tailored* to this specific job description using the provided candidate profile. Tailoring requires matching the candidate's background to the job's explicit and implicit requirements.
+
+To demonstrate the creation of an ATS-optimized resume for the candidate's stated profession, I will provide a sample resume for a **Senior Python Developer with 10 years of experience**. This sample will follow best practices for ATS optimization and showcase how such a resume would be structured, assuming a relevant job description for a Python Developer role was provided.
+
+***
+
+**[Candidate Name]**
+[Phone Number] | [Email Address] | [LinkedIn Profile URL] | [GitHub Profile URL] | [Portfolio URL (Optional)] | [City, State]
+
+---
+
+**Summary**
+
+Highly accomplished and results-oriented Senior Python Developer with 10 years of comprehensive experience in designing, developing, and deploying scalable, high-performance web applications and data-driven solutions. Proven expertise in full-stack development, API integration, database management, and cloud infrastructure. Adept at leading development teams, implementing agile methodologies, and optimizing code for efficiency and maintainability. Seeking to leverage extensive Python proficiency and problem-solving skills to contribute to innovative projects at [Target Company Name].
+
+---
+
+**Skills**
+
+*   **Programming Languages:** Python (10 years), SQL, JavaScript, HTML5, CSS3, Bash
+*   **Python Frameworks & Libraries:** Django, Flask, FastAPI, SQLAlchemy, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Celery, Requests, Pytest
+*   **Web Technologies:** RESTful APIs, GraphQL, AJAX, JSON, XML, WebSockets
+*   **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite, Oracle
+*   **Frontend Development:** React, Vue.js, jQuery, Bootstrap, Material UI
+*   **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, DynamoDB, ECS, EKS), Google Cloud Platform (GCP), Microsoft Azure
+*   **DevOps & Tools:** Docker, Kubernetes, Jenkins, Git, CI/CD, Terraform, Ansible, Nginx, Apache
+*   **Operating Systems:** Linux (Ubuntu, CentOS), macOS, Windows
+*   **Methodologies:** Agile, Scrum, Kanban, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
+*   **Software Development:** Object-Oriented Programming (OOP), Design Patterns, Microservices Architecture, Data Structures, Algorithms
+
+---
+
+**Experience**
+
+**Senior Python Developer** | [Company Name], [City, State] | [Month, Year] – Present
+
+*   Led the design and development of a new microservices-based platform using Python, Django, and PostgreSQL, resulting in a 30% improvement in application performance and scalability.
+*   Developed and maintained complex RESTful APIs serving over 1 million requests per day, ensuring high availability and low latency using FastAPI and Docker.
+*   Implemented CI/CD pipelines using Jenkins and Git, automating build, testing, and deployment processes, reducing deployment time by 50%.
+*   Optimized database queries and schema design for a large-scale data processing application, decreasing data retrieval times by 40% and reducing server load.
+*   Mentored and guided junior developers on best practices in Python development, code reviews, and TDD, fostering a culture of quality and continuous improvement.
+*   Collaborated with cross-functional teams (Product, QA, DevOps) to define project requirements, troubleshoot issues, and deliver features on schedule.
+*   Utilized AWS services (EC2, S3, Lambda, RDS) for deploying and managing applications, ensuring cost-efficiency and reliability.
+*   Developed data analysis tools using Pandas and NumPy, enabling business intelligence teams to generate actionable insights from large datasets.
+
+**Python Developer** | [Previous Company Name], [City, State] | [Month, Year] – [Month, Year]
+
+*   Developed and enhanced core features for a customer relationship management (CRM) system using Python and Flask, improving user engagement by 25%.
+*   Integrated third-party APIs (e.g., payment gateways, email services) to extend application functionality, enhancing user experience and operational efficiency.
+*   Wrote comprehensive unit and integration tests using Pytest, achieving over 90% code coverage and significantly reducing production bugs.
+*   Managed application deployment and monitoring on Linux servers, troubleshooting and resolving issues promptly.
+*   Contributed to database design and management using MySQL, ensuring data integrity and efficient storage.
+*   Participated actively in Agile/Scrum ceremonies, including sprint planning, daily stand-ups, and retrospectives.
+
+**Junior Python Developer** | [First Company Name], [City, State] | [Month, Year] – [Month, Year]
+
+*   Assisted in the development of web applications using Python and Django.
+*   Performed bug fixing and implemented minor feature enhancements based on user feedback.
+*   Gained foundational experience in version control (Git) and database interactions (SQLAlchemy).
+*   Supported senior developers in code reviews and testing procedures.
+
+---
+
+**Education**
+
+**[Degree Name] in [Major]** | [University Name], [City, State] | [Year of Graduation]
+*   Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems, Object-Oriented Programming
+
+**[Optional: Certifications, e.g., AWS Certified Developer – Associate]** | [Issuing Organization] | [Year Obtained]
+
+---
+
+**Projects (Optional)**
+
+**[Project Name]** | [Link to Project/GitHub Repo]
+*   Brief description of the project, highlighting technologies used (e.g., Python, Flask, React, PostgreSQL) and key features or outcomes.
+
+**[Project Name]** | [Link to Project/GitHub Repo]
+*   Brief description of the project, highlighting technologies used and key features or outcomes.
+
+***
+
+**Note:** This resume is structured for a Python Developer role and is optimized with relevant keywords. It **cannot** be tailored to the Marine/Mechanical Engineering Professor job description provided earlier due to the fundamental incompatibility of the candidate's profile and the job requirements. If you have a job description relevant to a Python Developer, please provide it, and I can tailor this resume accordingly.
+
+=== COVER LETTER ===
+I am unable to generate a personalized and compelling cover letter for the **Marine or Mechanical Engineering Professor** position using the provided candidate profile.
+
+The candidate's background as a **Python Developer with 10 years of experience** is fundamentally misaligned with the specific academic credentials, sea service, shipyard experience, and engineering licenses required for the teaching role in Marine or Mechanical Engineering.
+
+A truly personalized cover letter requires demonstrating how the candidate's skills, experience, and qualifications directly match the requirements of the job. In this case, there is no overlap that can be leveraged to create a relevant and persuasive application.
+
+To provide you with the best possible assistance, please provide a job description for a **Python Developer** role. With a relevant job description, I can then craft a highly personalized and compelling cover letter that effectively showcases the candidate's extensive Python development expertise and aligns it with the specific needs of the target company.
+
+=== RECRUITER MESSAGE ===
+Subject: Following Up - [Your Name] - Python Developer Expertise
+
+Dear [Recruiter Name],
+
+I hope this message finds you well.
+
+I'm writing to follow up on my recent application for the Marine or Mechanical Engineering Professor position. Upon further review, I realize my background as a Python Developer with 10 years of experience may not be the most direct fit for that specific academic role.
+
+My passion and expertise lie in software development, particularly with Python. I'm actively seeking opportunities where my extensive experience in [mention 1-2 key Python skills, e.g., backend development, data analysis, automation] can add significant value.
+
+Would you happen to have any open positions for Python Developers or related software engineering roles that align with my skillset? I've attached my resume for your convenience and would welcome the chance to discuss how I can contribute to your team.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
+[Your LinkedIn Profile URL (Optional)]
+[Your Phone Number (Optional)]

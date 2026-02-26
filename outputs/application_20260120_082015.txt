@@ -1,0 +1,72 @@
+=== JOB ANALYSIS ===
+**Required Skills:**
+*   Teaching at a college or university in Marine or Mechanical Engineering or a related field.
+*   Sea service as a licensed engineer officer.
+*   Relevant shipyard planning, production, scheduling, or business operation experience ashore.
+*   Power-plant operator related experience.
+*   Accountability: Hold self and others accountable for measurable high-quality, timely, and cost-effective results; determine objectives, set priorities, and delegate work; accept responsibility for mistakes; comply with established control systems and rules.
+*   Computer Skills: Use computers, software applications, databases, and automated systems to accomplish work.
+*   Customer Service: Work with clients and customers to assess their needs, provide information or assistance, resolve their problems, or satisfy their expectations; know about available products and services; be committed to providing quality products and services.
+*   Developing Others: Develop the ability of others to perform and contribute to the organization by providing ongoing feedback and by providing opportunities to learn through formal and informal methods.
+*   Education and Training: Knowledge of teaching, training, research, making presentations, lecturing, testing, and other instructional methods.
+
+**Tools:**
+*   Computers
+*   Software applications
+*   Databases
+*   Automated systems
+
+**Experience Level:**
+*   **Assistant Professor:**
+    *   Minimum of 1 academic year (5 years) full-time or equivalent experience teaching at a college or university in Marine or Mechanical Engineering or a related field.
+    *   *Alternatively:* Sea service as a licensed engineer officer, relevant shipyard planning, production, scheduling, or business operation experience ashore, or power-plant operator related experience may be substituted for teaching experience on a one-for-one basis.
+    *   Bachelor's degree from an accredited college or university in Marine or Mechanical Engineering or a related field (including, but not limited to naval architecture, naval engineering, ocean engineering, electrical engineering or nuclear engineering).
+*   **Associate Professor:**
+    *   Minimum of 5 academic years full-time or equivalent experience teaching at a college or university in Marine or Mechanical Engineering or a related field.
+    *   *Alternatively:* Sea service as a licensed engineer officer, relevant shipyard planning, production, scheduling, or business operation experience ashore, or power-plant operator related experience may be substituted for teaching experience on a one-for-one basis.
+    *   Master's degree from an accredited college or university in Marine or Mechanical Engineering or a related field (including, but not limited to naval architecture, naval engineering, ocean engineering, electrical engineering or nuclear engineering).
+
+**Licensure/Credential Requirements (with potential substitutions):**
+*   Current (not expired) U.S. Coast Guard License (or equivalent credential) valid for service on United States Flag Commercial Ships as a 2nd Assistant Engineer, Unlimited Horsepower.
+*   A valid Certificate under the provisions of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as currently amended (preferred).
+*   **License Substitution Options (considered on a case-by-case basis):**
+    *   Valid Professional Engineer’s license in Marine or Mechanical Engineering or a related discipline.
+    *   Experience as a shipyard superintendent or project manager.
+    *   Shipping company (including US Navy) Port Engineer experience.
+    *   Service in the U.S. Navy as an Engineering Duty officer (designator 144X).
+    *   Qualified as a U.S. Coast Guard Naval Engineer or Marine Inspector.
+    *   Possession of a Master’s Degree (for Assistant Professor) in Marine or Mechanical Engineering or a related field.
+
+**General Experience Note:**
+*   Experience includes paid and unpaid experience, including volunteer work.
+
+=== ATS OPTIMIZED RESUME ===
+The provided candidate profile (Python developer with 2 years of experience) is not relevant to the job requirements for an Assistant or Associate Professor in Marine or Mechanical Engineering. The job necessitates extensive experience in teaching, sea service as a licensed engineer, or specific shipyard/power-plant operations, along with advanced degrees and professional licenses. A Python developer's skillset and experience do not align with these requirements, making it impossible to create an ATS-optimized resume tailored to this specific job description using the given candidate profile.
+
+=== COVER LETTER ===
+I am unable to generate a personalized cover letter for the Assistant or Associate Professor position in Marine or Mechanical Engineering based on the provided candidate profile.
+
+The job requirements necessitate a strong background in teaching, significant sea service as a licensed engineer, or extensive experience in shipyard/power-plant operations, along with advanced degrees and relevant professional licenses. The candidate profile describes a Python developer with two years of experience.
+
+There is a significant mismatch between the candidate's skillset and experience (Python development) and the essential qualifications for the academic position (Marine/Mechanical Engineering expertise, teaching, sea service, advanced degrees, professional licenses). Consequently, it is not possible to create a relevant or compelling cover letter that accurately reflects the candidate's qualifications for this specific role.
+
+=== RECRUITER MESSAGE ===
+Subject: Following Up: Application for [Job Title] - [Your Name]
+
+Dear [Recruiter Name],
+
+I hope this message finds you well.
+
+I am writing to follow up on my recent application for the [Job Title, e.g., Assistant Professor in Marine or Mechanical Engineering] position.
+
+While I applied for this role, I wanted to proactively reach out and mention that my primary expertise lies in Python development, with two years of professional experience in this area. I understand this may not be a direct match for the specific qualifications of the professor position.
+
+I am very interested in exploring opportunities within [Company Name] where my Python development skills could be of value. Please let me know if you have any other roles that might be a better fit for my background.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]
+[Your LinkedIn Profile URL (Optional)]
+[Your Phone Number (Optional)]
